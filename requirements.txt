@@ -1,0 +1,6 @@
+panel
+boto3
+crewai
+langchain
+chromadb    
+mem0
